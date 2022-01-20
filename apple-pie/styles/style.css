@@ -1,0 +1,75 @@
+.hero-image{
+    background-image: url("../images/apple-pie.jpg"); 
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.title{
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 36%;
+    color: white;
+    font-size:90px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 3px;
+    font-weight: 300;
+}
+
+main{
+    margin-top: 70px;
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-bottom: 70px;
+
+}
+
+.description{
+    font-size:34px;
+    font-family: "Roboto", sans-serif;
+    padding-bottom: 30px;
+    font-weight: 300;
+}
+
+.section1{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    padding-bottom: 30px;
+}
+
+
+h3{
+    padding-top: 30px;
+    font-family: "Roboto", sans-serif;
+    font-size: 36px;
+}
+
+ul{
+    padding-bottom: 30px;
+    list-style: none;
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+.section2{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+ol{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    list-style: none;
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
